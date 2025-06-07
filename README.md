@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Task-Planner RESTful Web Services</h1>
 
 <p align="center">
@@ -155,3 +156,6 @@ Give a ⭐️ if you like this project!
 
 <p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
 
+=======
+# Task-Planner
+>>>>>>> 1eb3a0190c28ec442fa8b43f98d4ff5759191c7f
