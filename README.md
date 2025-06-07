@@ -133,14 +133,8 @@ spring.jpa.show-sql=true
 ## Feedback✍️
 I would indeed appreciate your feedback and suggestions if any. Each single one of them matters ❣️. Please, let me know your feedback, suggestions, or queries through my LinkedIn. [Let's connect...](https://www.linkedin.com/in/t-roshan-kumar-patro/):smiley:
 
-## Contact
 
-If you want to contact me, you can reach me through below handles. <br />
-
-[![linkedin](https://img.shields.io/badge/Roshan_Patro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-roshan-kumar-patro/)
-[![GitHub](https://img.shields.io/badge/Roshan_Patro-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Roshan-Patro)
-
-© 2023 T Roshan Kumar Patro
+© 2025 Vaibhav Shukla
 
 ## Show your support
 
